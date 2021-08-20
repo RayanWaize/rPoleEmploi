@@ -1,6 +1,6 @@
 Config = {}
 
-Config.webhooks = "https://discord.com/api/webhooks/878005740336459877/SWliMYGMd-Is74d3JcttBwemYZV2KqATZYrLdOSOVTZkvvjE1IgH8g6uIqQ2w2u3Y43w"
+Config.webhooks = "TON WEBHOOK ICI"
 
 Config.Peds = "cs_movpremmale"
 
